@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:andorid="http://schemas.android.com/apk/res/android"
+    andorid:orientation="vertical"
+    andorid:layout_width="match_parent"
+    andorid:layout_height="match_parent">
+
+    <Button
+        andorid:id="@+id/start"
+        andorid:layout_width="match_parent"
+        andorid:layout_height="wrap_content"
+        andorid:text="start"/>
+
+    <Button
+        andorid:id="@+id/pause"
+        andorid:layout_width="match_parent"
+        andorid:layout_height="wrap_content"
+        andorid:text="pause"/>
+
+    <Button
+        andorid:id="@+id/cancel"
+        andorid:layout_width="match_parent"
+        andorid:layout_height="wrap_content"
+        andorid:text="cancel"/>
+
+
+
+</LinearLayout>
